@@ -1,0 +1,3 @@
+LOG_FOLDER: "/home/buddhi/.mousemonitor/"
+LOG_NAME: "log.csv"
+LOG_INTERVAL: 60
